@@ -94,9 +94,9 @@ body{
     padding-left:70px;
     margin-left:40%;
     margin-top:50px;
-    
-    
+    text-decoration: none;   
 }
+
 .let{
     color:black;
     font-weight: bold;
@@ -161,5 +161,249 @@ body{
     color:black;
     margin-left:110px;
 }
-  
+.rectangle3{
+    width:290px;
+    height:110px;
+    background-color: #FF3185;
+    color:white;
+    font-size:18px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top:40px;
+    padding-left:55px;
+    margin-top:40px;
+}
+.solution-img{
+    width: 600px;
+    height:284px;
+    margin-left:55%;
+    margin-bottom:20%;
 
+
+}
+.grid-item1{
+    margin-left:60px;
+    margin-top:80px;
+}
+.grid-item2{
+    margin-right:70%;
+    margin-top:10%;
+}
+.solution{
+    color:#342D4F;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+.para6{
+    font-size:18px;
+    color:black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto ;
+    
+}
+.technology-img{
+    width: 600px;
+    height:284px;
+    margin-left:50px;
+    margin-top:15%;   
+}
+.grid-container2{
+    display: grid;
+    grid-template-columns: auto auto ;
+}
+.grid-item3{
+    margin-left:50px;
+    margin-top:80px;
+}
+.grid-item4{
+    margin-right:20%;
+    margin-top:30%;
+}
+.become{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+    color:black;
+    text-align: center;
+    margin-top:15%;
+}
+.rectangle4{
+    width:650px;
+    height:630px;
+    background-color: white;
+    border: 1px solid #F5F8FA;
+    margin-left: 29%;
+    margin-top:4%;
+    border-radius: 5px;
+    
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #F5F8FA;
+    border-radius: 5px;
+  
+  }
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #D0D1D4;
+    outline: none;
+  }
+ .sticky{
+    margin-top:-2%;
+    position:-webkit-sticky;
+    position:fixed;
+    margin-left: 93%;
+    width:70px;
+    height:60px;
+  }
+ 
+  .container {
+    padding: 16px;
+  }
+  .rectangle5{
+    width:200px;
+    height:65px;
+    border-radius:4px;
+    background-color: #FF3185;
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top:17px;
+    padding-left:30px;
+    margin-left:32%;
+    margin-top:10%;
+    
+  }
+  .rectangle6{
+    width:1250px;
+    height:350px;
+    border-radius: 5px;
+    background-color: #522EA4;
+    margin-left:10%;
+    margin-top:7%;
+    color:white;
+    font-size:34px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left:5%;
+    padding-top:5%;
+
+  }
+  .CRC{
+    font-size:20px;
+    padding-left:15px;
+    padding-top:50px;
+ 
+  }
+.rectangle7{
+    width:180px;
+    height:75px;
+    border:1px solid white;
+    border-radius: 5px;
+    font-size:16px;
+    margin-left:70%;
+    padding-left: 40px;
+    padding-top:25px;
+    background-color: #431F95;
+    margin-top:-120px; 
+
+}
+.straight{
+    display:flex;
+}
+.rectangle7 a{
+    color:white;
+}
+
+.rectangle5 a{
+    color:white;
+}
+.rectangle8{
+    background-color: #FAFAFA;
+    width:100%;
+    height:600px;
+    margin-top:100px;
+}
+.grid-container3{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    color: #5B5B5B;
+}
+.topic{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color:black;
+}
+.grid-item4{
+    margin-top:80px;
+}
+.grid-item5{
+    margin-top:80px;
+}
+h4 a{
+    text-decoration: none;
+}
+div a{
+    text-decoration: none;
+    color:#5B5B5B;
+}
+.fac{
+    margin-left:40px;
+}
+.social{
+    margin-left:40%;
+    margin-top:40px;
+    padding-left:30%;
+     
+}
+.website{
+    display:flex;
+}
+.fb{
+    width:40px;
+    height:40px;
+}
+.twi{
+    width:40px;
+    height:40px;
+}
+.link{
+    width:40px;
+    height:40px;
+}
+.utube{
+    width:40px;
+    height:40px;
+}
+.line{
+    border:1px solid #EEEEEE;
+}
+.foot{
+    list-style: none;
+    margin: 5;
+    padding: 0;
+    text-indent:20px;
+    }
+    .foot-items a {
+    text-decoration: none;
+    color: #5B5B5B;
+    opacity: 0.9;
+    font-family: sans-serif;
+    float:left;
+    text-align: center;
+
+    }
+    .copy{
+        color:#5B5B5B;
+        text-indent:47%;
+
+    }
